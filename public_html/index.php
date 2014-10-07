@@ -7,6 +7,10 @@ function hi() {
     echo "hi";
 }
 
+
+/**
+* こんにちわ 
+*/
 function hello() {
     echo "hello";
 }
