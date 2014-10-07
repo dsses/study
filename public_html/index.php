@@ -7,7 +7,7 @@ hello();
 * はい
 */
 function hi() {
-    echo "hi";
+    echo 'hi';
 }
 
 
