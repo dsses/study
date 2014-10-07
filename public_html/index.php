@@ -3,6 +3,9 @@
 
 hello();
 
+function hi() {
+    echo "hi";
+}
 
 function hello() {
     echo "hello";
@@ -11,3 +14,4 @@ function hello() {
 function bye() {
     echo "bye";
 }
+
