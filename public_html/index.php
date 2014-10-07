@@ -5,9 +5,10 @@ hello();
 
 /**
 * はい
+* @param string $prefix
 */
-function hi() {
-    echo 'hi';
+function hi($prefix) {
+    echo $prefix . 'hi';
 }
 
 
